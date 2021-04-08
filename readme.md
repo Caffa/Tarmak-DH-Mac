@@ -1,4 +1,4 @@
-#Based on 
+# Based on 
 Tarmak-DH 2020 but in ISO config (so didn't take from here)
 https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14801
 
