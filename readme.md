@@ -21,7 +21,9 @@ Diagram of how I changed ISO (left) to ANSI (right) (Added angle z mod).
 
 Based on whether you have an ANSI keyboard (there is no key between shift and your z key) or ISO keyboard (there is a key between shift and your z key), go the either ANSI or ISO folders to find the keyboard layouts that you need.
 
-- [ ] TODO insert keyboard layout comparison pics
+![ISO vs ANSI Keyboard layout comparison](Reference Images/Compare ISO vs ANSI.png)
+
+This is the tarmak 1a keyboard layout shown above.
 
 ANSI has the angle z mod while ISO is just the [layout by DreymaR](https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14801)
 
