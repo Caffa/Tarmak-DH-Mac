@@ -69,7 +69,6 @@ if you use https://www.keybr.com/, you can go to settings, advanced from the pra
 
 I made my own using an unscrambler and randomly shuffling words. You can use those in [Custom Text folder](/Custom Text)
 
-
 Still would recommend going to https://monkeytype.com/ to write out actual passages of word which you will use while transitioning.
 
 ### Considerations
@@ -132,6 +131,13 @@ Basically should just train on full text but might want to do ; coz it has moved
 So should train on words with Q, W, A, U, I, L, V, N, E, K, M, H, X, C, Z, F, B, T, R, S, D, P, J, Y, O, ;
 
 QWAULIVNEKMHXCZFBTRSDPJYO;:
+
+
+### How I generate custom text based on letters
+(Gif)[My gifs/output_optimized.gif]
+
+1. Generate text using [unscrambler](http://www.allscrabblewords.com/unscramble/qwaulivnek)
+2. Shuffle words using [random shuffler](https://onlinerandomtools.com/shuffle-words)
 
 ## Wallpaper for ANSI Layout
 Added a Wallpaper of this keyboard config (it's just modified slightly from ISO config Tarmak-DH) credit to 
