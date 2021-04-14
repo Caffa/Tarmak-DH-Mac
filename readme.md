@@ -68,6 +68,7 @@ Different implementations of ANSI Colemak DH https://colemakmods.github.io/mod-d
 #TODO
 - [X] ANSI keyboard
 - [X] Wallpaper for ANSI
-- [-] ISO keyboard
+- [X] ISO keyboard
+- [ ] Wallpaper for ISO ?
 - [ ] Key fingering diagram
 
