@@ -8,12 +8,13 @@ aka [Tarmak-dh by DreymaR](https://forum.colemak.com/post/14801/#p14801) for Ste
 ### ISO
 Tarmak-DH(E-T-R-O-I) for the Colemak-DH(m) standard ergo mod 2020 (meant for those learning 2020 version of Colemak-DH(m) which is the latest version Colemak-DH on forums) [Tarmak-dh layout for ISO keyboards by DreymaR](https://forum.colemak.com/post/14801/#p14801)
 
-[Tarmak-DH ISO keyboard](https://github.com/Caffa/Tarmak-DH-Mac/blob/main/Reference%20Images/Tarmak-DH%20Variant%20ISO.png?raw=true "ISO Tarmakdh")
+![Tarmak-DH ISO keyboard](https://github.com/Caffa/Tarmak-DH-Mac/blob/main/Reference%20Images/Tarmak-DH%20Variant%20ISO.png)
+
 Image by DreymaR, I drew on it to show which keys are changed for each layout.
 
 ### ANSI
 
-![Diagram of how I changed ISO](/https://github.com/Caffa/Tarmak-DH-Mac/blob/main/Reference%20Images/My%20Config%20TARMAK%20DH%20ANSI.jpg?raw=true "ISO vs ANSI Tarmakdh")
+![Diagram of how I changed ISO](https://github.com/Caffa/Tarmak-DH-Mac/blob/main/Reference%20Images/My%20Config%20TARMAK%20DH%20ANSI.jpg?raw=true "ISO vs ANSI Tarmakdh")
 Diagram of how I changed ISO (left) to ANSI (right) (Added angle z mod).
 
 # Instructions
