@@ -76,12 +76,12 @@ Different implementations of ANSI Colemak DH https://colemakmods.github.io/mod-d
 - Make a collection and export to get a .dmg, the bundle is inside.
 - try to make your colored keyboard panels (checkout wallpaper folder to see example for each stage)
 
-#FAQ
+# FAQ
 - It hasn't appeared in my system preferences: Log in and out. If that doesn't work check you have the TarmakDH ANSI Zmod.bundle in Macintosh HD > Library > Keyboard Layouts then restart.
 
 - Clicking on it gives an error for Keyboard_Installer.KIErrorCode error 1. : Yes, have not figured out how to fix this. So only manual installation works now.
 
-#TODO
+# TODO
 - [X] ANSI keyboard
 - [X] Wallpaper for ANSI
 - [X] ISO keyboard
