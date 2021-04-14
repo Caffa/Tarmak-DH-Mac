@@ -134,7 +134,7 @@ QWAULIVNEKMHXCZFBTRSDPJYO;:
 
 
 ### How I generate custom text based on letters
-(Gif)[My gifs/output_optimized.gif]
+[Gif](My gifs/output_optimized.gif)
 
 1. Generate text using [unscrambler](http://www.allscrabblewords.com/unscramble/qwaulivnek)
 2. Shuffle words using [random shuffler](https://onlinerandomtools.com/shuffle-words)
