@@ -64,6 +64,16 @@ You should end with Colemak DH + Z angle mod. This is the same as  https://githu
 
 # Useful 
 
+## Fingering
+Images from [DreymaR](https://forum.colemak.com/topic/111-i-made-a-couple-of-images/)
+
+Your fingers should be on the home row:
+![image](https://user-images.githubusercontent.com/1797721/115220514-35a3c600-a13b-11eb-98f5-986ee8bd7299.png)
+
+You should press each key based on the color it corresponds to:
+![image](https://user-images.githubusercontent.com/1797721/115220482-2b81c780-a13b-11eb-9e48-e00f41fcfa7e.png)
+
+
 ## Custom Text
 if you use https://www.keybr.com/, you can go to settings, advanced from the practice page in order to add your own custom text. I am essentially trying to reduce use of keys which are going to change.
 
@@ -165,7 +175,7 @@ Different implementations of ANSI Colemak DH https://colemakmods.github.io/mod-d
 - [X] Wallpaper for ANSI
 - [X] ISO keyboard
 - [ ] Wallpaper for ISO ?
-- [ ] Key fingering diagram
+- [X] Key fingering diagram
 - [ ] Video on how I make the layouts
 - [ ] Video on how to install layouts
 - [ ] Videos on learning Colemak-DHm using Tarmak-dh (ANSI keyboard)
