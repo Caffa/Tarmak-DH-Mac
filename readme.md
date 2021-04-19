@@ -71,6 +71,7 @@ Your fingers should be on the home row:
 ![image](https://user-images.githubusercontent.com/1797721/115220514-35a3c600-a13b-11eb-98f5-986ee8bd7299.png)
 
 You should press each key based on the color it corresponds to:
+
 ![image](https://user-images.githubusercontent.com/1797721/115220482-2b81c780-a13b-11eb-9e48-e00f41fcfa7e.png)
 
 
