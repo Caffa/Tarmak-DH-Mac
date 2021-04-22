@@ -1,18 +1,22 @@
 # What is this Tarmak-dh
-Tarmak-dh is a way to learn the Colemak-DH(m) keyboard layout in steps which make the transition easier. Colemak-dh(m) is a variation of the classic Colemak keyboard layout which moves the D & H keys to better positions [Explanation by stevep99](https://colemakmods.github.io/mod-dh/). The Colemak-DH(m) standard ergo mod is a variant upon Colemak-dh which was agreed upon to be jointly promoted by the community as it works well for row staggered and matrix keyboards.
+Tarmak-dh is a way to learn the Colemak-DH(m) keyboard layout in steps which make the transition easier. Colemak-dh(m) is a variation of the classic Colemak keyboard layout which moves the D & H keys to better positions [Explanation by stevep99](https://colemakmods.github.io/mod-dh/) [Explanation by Dreymar](https://dreymar.colemak.org/ergo-mods.html#CurlDH). The Colemak-DH(m) standard ergo mod is a variant upon Colemak-dh which was agreed upon to be jointly promoted by the community as it works well for row staggered and matrix keyboards.
 
 ## Specific keyboard layout being used
 Tarmak-DH(E-T-R-O-I) for the Colemak-DH(m) standard ergo mod [read more on history here](https://forum.colemak.com/post/14803/#p14803)
-aka [Tarmak-dh by DreymaR](https://forum.colemak.com/post/14801/#p14801) for SteveP's original mod of Colemak-dh. 
+aka [Tarmak-dh by DreymaR](https://dreymar.colemak.org/tarmak.html#tmk-dh) for SteveP's original mod of Colemak-dh. 
 
 ### ISO
-Tarmak-DH(E-T-R-O-I) for the Colemak-DH(m) standard ergo mod 2020 (meant for those learning 2020 version of Colemak-DH(m) which is the latest version Colemak-DH on forums) [Tarmak-dh layout for ISO keyboards by DreymaR](https://forum.colemak.com/post/14801/#p14801)
+Tarmak-DH(E-T-R-O-I) for the Colemak-DH(m) standard ergo mod 2020 (meant for those learning 2020 version of Colemak-DH(m) which is the latest version Colemak-DH on forums) [Tarmak-dh layout for ISO keyboards by DreymaR](https://dreymar.colemak.org/tarmak.html#tmk-dh)
+
+![Gif for Tarmak-DH ISO](https://dreymar.colemak.org/res/cmk/tarmak/OldTmk/Tarmak-CkA-ISO_Spectral-cpt/Tmk-CkA-ISO_SpectralAnimation-48d.gif) Gif for Tarmak-DH ISO Keyboard by Dreymar
 
 ![Tarmak-DH ISO keyboard](https://github.com/Caffa/Tarmak-DH-Mac/blob/main/Reference%20Images/Tarmak-DH%20Variant%20ISO.png)
 
 Image by DreymaR, I drew on it to show which keys are changed for each layout.
 
 ### ANSI
+
+![Diagram of Tarmak-DH on ANSI Keyboards](https://dreymar.colemak.org/res/cmk/tarmak/Tarmak-ETROI_Spectral_CA-Z-em.png) Spectrally color-coded Tarmak-DH with the CurlAngle(Z)-ANSI mod by Dreymar
 
 ![Diagram of how I changed ISO](https://github.com/Caffa/Tarmak-DH-Mac/blob/main/Reference%20Images/My%20Config%20TARMAK%20DH%20ANSI.jpg?raw=true "ISO vs ANSI Tarmakdh")
 Diagram of how I changed ISO (left) to ANSI (right) (Added angle z mod).
@@ -25,7 +29,7 @@ Based on whether you have an ANSI keyboard (there is no key between shift and yo
 
 This is the tarmak 1a keyboard layout shown above.
 
-ANSI has the angle z mod while ISO is just the [layout by DreymaR](https://forum.colemak.com/topic/1858-learn-colemak-in-steps-with-the-tarmak-layouts/#p14801)
+ANSI has the angle z mod while ISO is just the [layout by DreymaR](https://dreymar.colemak.org/tarmak.html#tmk-dh)
 
 ## Installation
 Put the bundle you need into either directories:
