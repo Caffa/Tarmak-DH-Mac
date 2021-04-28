@@ -64,6 +64,19 @@ So should train on words with Q, W, A, U, I, L, V, N, E, K, M, H, X, C, Z, F, B,
 
 QWAULIVNEKMHXCZFBTRSD
 
+letters to avoid are P J Y O ; L U I 
+
+I want to focus on: RSD for thir change
+But also to keep working on HMTFKCZXB
+
+These are 12 letters
+RSDHMTFKCZXB
+
+We should add AE as most common vowels so break it up
+- RSDTFCZBAE
+- RSDHMKCXAE
+
+I only kept unique words then shuffled
 ##### Tarmak-DH (ANSI) (4): P, J, Y, O, ;
 
 So should train on words with Q, W, A, U, I, L, V, N, E, K, M, H, X, C, Z, F, B, T, R, S, D, P, J, Y, O, ;
