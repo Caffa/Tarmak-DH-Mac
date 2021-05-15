@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-10-19 at 15:35 (EDT)-->
-<!--Last edited by Ukelele version 343 on 2021-05-15 at 22:54 (SGT)-->
+<!--Last edited by Ukelele version 343 on 2021-05-15 at 23:21 (SGT)-->
 <keyboard group="0" id="15310" name="Tarmak 4 CurlWide" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -69,11 +69,11 @@
             <key code="22" output="6"/>
             <key code="23" output="5"/>
             <key code="24" output="="/>
-            <key code="25" output="9"/>
-            <key code="26" output="7"/>
-            <key code="27" output="-"/>
-            <key code="28" output="8"/>
-            <key code="29" output="0"/>
+            <key code="25" output="8"/>
+            <key code="26" output="-"/>
+            <key code="27" output="0"/>
+            <key code="28" output="7"/>
+            <key code="29" output="9"/>
             <key code="30" output="&#x0027;"/>
             <key code="31" action="17"/>
             <key code="32" action="18"/>
@@ -181,11 +181,11 @@
             <key code="22" output="^"/>
             <key code="23" output="%"/>
             <key code="24" output="+"/>
-            <key code="25" output="("/>
-            <key code="26" output="&#x0026;"/>
-            <key code="27" output="_"/>
-            <key code="28" output="*"/>
-            <key code="29" output=")"/>
+            <key code="25" output="*"/>
+            <key code="26" output="_"/>
+            <key code="27" output=")"/>
+            <key code="28" output="&#x0026;"/>
+            <key code="29" output="("/>
             <key code="30" output="&#x0022;"/>
             <key code="31" action="10"/>
             <key code="32" action="11"/>
