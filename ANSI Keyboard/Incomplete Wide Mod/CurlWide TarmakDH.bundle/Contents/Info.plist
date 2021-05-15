@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.curlwidetarmakdh</string>
+	<key>CFBundleName</key>
+	<string>CurlWide TarmakDH</string>
+	<key>CFBundleVersion</key>
+	<string></string>
+	<key>KLInfo_ColemakDH CurlWide</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.curlwidetarmakdh.colemakdhcurlwide</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Tarmak 4 CurlWide</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.curlwidetarmakdh.tarmak4curlwide</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+</dict>
+</plist>
